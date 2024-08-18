@@ -1,0 +1,12 @@
+main{
+    height: 1000px;
+    border: 1px solid red;
+}
+header{
+    height:100px;
+    border: 1px solid blue;
+}
+footer{
+    height: 170px;
+    border: 1px solid green;
+}
